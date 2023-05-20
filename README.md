@@ -1,4 +1,4 @@
-![logo](https://graph.org/file/f7b6e34f2c95a9b87176c.jpg)
+![logo](https://graph.org/file/6a3b62e1d2437739260c3.jpg)
 <h1 style="color:Dogerblue;" align="center">👨‍💻Varun🧩</h1>
 <h3 style="color:Tomato;" align="center">𝗜'ᴍ ᴀ 𝗖ᴏᴍᴘᴜᴛᴇʀ 𝗦ᴄɪᴇɴᴄᴇ sᴛᴜᴅᴇɴᴛ ғʀᴏᴍ 𝗜𝗜𝗧-𝗕ᴏᴍʙᴀʏ..!🤖💫</h3>
 
